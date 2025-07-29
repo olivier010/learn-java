@@ -1,10 +1,7 @@
 public class hello {
     public static void main(String[] args) {
-        //addition of two numbers
-        int a = 5;
-        int b = 10;
-        int sum = a + b;
-        System.out.println("the sum of two number is" + sum);
+        // This is a simple Java program that prints "Hello World!" to the console
+        System.out.println("Hello World!");
     
     }
 }
