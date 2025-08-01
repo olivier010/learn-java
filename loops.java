@@ -10,14 +10,19 @@ public class loops {
 
         //do-while loop
 
-        int j = 1;
         String name = "foex";
+        int j;
 
-        do{
+        // do{
+        //     System.out.println("Hello " + name + " " + j);
+        //     j++;
+        // }
+        // while (j <= 5);
+
+        //for loop
+        for (j=1; j<=10; j++) {
             System.out.println("Hello " + name + " " + j);
-            j++;
         }
-        while (j <= 5);
 
 
     }
