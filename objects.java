@@ -37,8 +37,12 @@ public class objects {
         } else {
             int division = calc.div(n1, n2);
             System.out.println("The division of these two number is: " + division);
-            
+
+            //
+
         }
+        
+        
        
     }
 }
